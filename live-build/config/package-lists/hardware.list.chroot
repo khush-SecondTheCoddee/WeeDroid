@@ -1,0 +1,11 @@
+# Firmware and low-end machine support
+firmware-linux
+firmware-linux-free
+firmware-linux-nonfree
+firmware-misc-nonfree
+firmware-iwlwifi
+firmware-realtek
+intel-microcode
+amd64-microcode
+linux-image-amd64
+systemd-zram-generator

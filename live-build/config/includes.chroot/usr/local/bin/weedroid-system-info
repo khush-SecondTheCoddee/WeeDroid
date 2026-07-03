@@ -1,0 +1,5 @@
+#!/bin/sh
+printf 'WeeDroid OS\n'
+printf 'Kernel: '; uname -r
+printf 'Memory: '; free -h | awk '/Mem:/ {print $2 " total, " $7 " available"}'
+printf 'Desktop: XFCE (low-memory profile)\n'

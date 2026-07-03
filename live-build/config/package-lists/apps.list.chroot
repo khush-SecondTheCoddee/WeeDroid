@@ -1,0 +1,28 @@
+# Everyday GUI applications
+firefox-esr
+libreoffice
+vlc
+gimp
+geany
+mousepad
+ristretto
+synaptic
+gparted
+timeshift
+gufw
+simple-scan
+system-config-printer
+
+# Networking, media, and convenience
+network-manager
+network-manager-gnome
+blueman
+pulseaudio
+pavucontrol
+printer-driver-all
+cups
+curl
+wget
+nano
+htop
+neofetch

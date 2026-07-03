@@ -1,0 +1,10 @@
+# live-build generated artifacts
+/build/
+/live-build/.build/
+/live-build/cache/
+/live-build/chroot*/
+/live-build/binary*/
+/live-build/*.iso
+/live-build/*.hybrid.iso
+/live-build/*.img
+/live-build/*.log
