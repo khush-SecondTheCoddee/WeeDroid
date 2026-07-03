@@ -1,0 +1,24 @@
+# Lightweight Windows-like desktop
+xfce4
+xfce4-goodies
+xfce4-whiskermenu-plugin
+xfce4-pulseaudio-plugin
+xfce4-power-manager
+xfce4-notifyd
+lightdm
+lightdm-gtk-greeter
+slick-greeter
+greybird-gtk-theme
+papirus-icon-theme
+fonts-noto
+fonts-noto-color-emoji
+
+# File management and desktop integration
+thunar
+thunar-archive-plugin
+thunar-volman
+file-roller
+gvfs
+gvfs-backends
+udisks2
+policykit-1

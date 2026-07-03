@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=WeeDroid Welcome
+Comment=Open the WeeDroid getting started guide
+Exec=xdg-open /usr/share/doc/weedroid/welcome.html
+Icon=help-browser
+Categories=Utility;
